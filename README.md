@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saif Kholid</h1>
 <h3 align="center">Student at ITSNU, Pekalongan🌟.</h3>
 
+[![@khoolid's Holopin board](https://holopin.io/api/user/board?user=khoolid)](https://holopin.io/@khoolid)
+
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kholid0803&label=Profile%20views&color=0e75b6&style=flat"
