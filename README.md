@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kholidsaif312@gmail.com**
 
-- ⚡ Fun fact :- I have no reasons.
+- ⚡ Fun fact :- Just random people who learn programming
 
 
 <br>
